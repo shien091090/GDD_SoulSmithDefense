@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "角色.md",
+                "file": "我方和中立單位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "角色"
+              "title": "我方和中立單位"
             }
           }
         ],
@@ -267,17 +267,21 @@
   },
   "active": "55e81d3b15830021",
   "lastOpenFiles": [
-    "靜態單位.md",
-    "進攻波次.md",
+    "魂件.md",
+    "怪物(敵方單位).md",
+    "附設建築.md",
+    "我方和中立單位.md",
+    "進攻波次與路線.md",
+    "購買.md",
+    "大地圖.md",
+    "【遊戲企劃概要】.md",
+    "主堡.md",
     "角色.md",
-    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg",
+    "移動單位.md",
     "defence_tower.png",
     "未命名.canvas",
-    "怪物(敵方單位).md",
-    "移動單位.md",
-    "主堡.md",
-    "魂件.md",
-    "概述.md",
+    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg.md",
+    "E6059BDC-F031-4711-91D5-6352BE5892D1 1.jpg",
     "未命名",
     "未命名 1.canvas",
     "未命名.base",

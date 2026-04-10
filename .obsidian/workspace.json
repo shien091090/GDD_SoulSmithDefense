@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "大地圖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "大地圖"
             }
           }
         ],
@@ -251,18 +251,20 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "2da60899b91d9c78",
+  "active": "541f9ce89e4b0d65",
   "lastOpenFiles": [
-    "大地圖.md",
-    "主堡.md",
-    "README.md",
+    "購買.md",
+    "魂件.md",
+    "進攻波次與路線.md",
+    "附設建築.md",
+    "怪物(敵方單位).md",
     "角色.md",
     "我方和中立單位.md",
-    "怪物(敵方單位).md",
-    "附設建築.md",
-    "進攻波次與路線.md",
-    "魂件.md",
-    "購買.md",
+    "主堡.md",
+    "大地圖.md",
+    "big_map.png",
+    "README.md",
+    "game_play.png",
     "add_soul_component_slot.png",
     "all_soul_component.png",
     "many_soul_component_in_one_unit.png",
@@ -271,8 +273,6 @@
     "soul_component_on_the_ground.png",
     "character_put_other_soul_component.png",
     "wave_ui.png",
-    "transport_gate.png",
-    "transport_gate2.png",
     "monster_attacking_main_castle2.aseprite",
     "靜態單位.md",
     "未命名.canvas",
